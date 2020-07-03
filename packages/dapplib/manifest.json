@@ -1,0 +1,13 @@
+{
+    "name": "simple app",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Simple Token",
+        "/category/asset_value_tracking/token/symbol": "SMP",
+        "/category/asset_value_tracking/token/supply": "1000",
+        "/category/asset_value_tracking/token/decimals": "0"
+    }
+}
